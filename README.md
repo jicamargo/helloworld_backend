@@ -18,13 +18,13 @@
 - [📝 License](#license)
 
 
-# ⚙️ "Hello world" project as one app with Webpack <a name="about-project"></a>
+# ⚙️ "Hello world" Backend  <a name="about-project"></a>
 
 **Hello World Back-End" is a Ruby on Rails application that serves as a RESTful API. It utilizes PostgreSQL as its database to provide a simple yet interactive endpoint at /api/random_greeting. When accessed, this endpoint responds with a randomly selected greeting message sourced from the database.
 
 ## 🖥️Integration with Front-End
 
-This back-end project is designed to seamlessly integrate with its counterpart *front-end project* 👉🏽[hello_world_frontend](https://github.com/jicamargo/helloworld_frondend). The front-end, built with React.js and Redux, consumes the API provided by this back-end to display the greeting message.
+This back-end project is designed to seamlessly integrate with its counterpart *front-end project* 👉🏽[helloworld-frontend](https://github.com/jicamargo/helloworld-frondend). The front-end, built with React.js and Redux, consumes the API provided by this back-end to display the greeting message.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
