@@ -45,3 +45,8 @@ group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 end
+
+# Gem rack-cors to allow requests from the same origin (to make testing easier with React frontend)
+#  cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page
+#  to be requested from another domain outside the domain from which the first resource was served
+gem 'rack-cors'
